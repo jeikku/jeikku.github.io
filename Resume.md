@@ -1,6 +1,6 @@
 ---
 title: Resume
-permalink: /Resume/
+permalink: //
 ---
 ## <center> <b>TECHNICAL SKILLS</b> </center>
 
