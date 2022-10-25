@@ -1,6 +1,5 @@
 ---
 title: Resume
-description: 'Cell: 1 431 276 7020 | Email: broggyj@myumanitoba.ca'
 permalink: //
 ---
 ## <center> <b>TECHNICAL SKILLS</b> </center>
