@@ -1,9 +1,11 @@
-# <center>JACOB BROGGY
-Cell: 1 431 276 7020 | Email: broggyj@myumanitoba.ca</center>
-## <center>**TECHNICAL SKILLS**</center>
+## <center> TECHNICAL SKILLS
 
-C++/.NET | C# | Javascript | PHP | HTML/CSS | Java | NodeJS | JQuery | Ajax | AWS | Git Bash | Github | MongoDB | SQLite | VS Code | OpenGL | WordPress | Moodle | Site administration | Slack | VM VirtualBox
+C++/.NET | C# | Javascript | PHP | HTML/CSS | Java  
+NodeJS | JQuery | Ajax | AWS | Git Bash | Github  
+MongoDB | SQLite | VS Code | OpenGL | WordPress  
+Moodle | Site administration | Slack | VM VirtualBox
 
+</center>
 ## **EDUCATION & AWARDS**   
 **B.Sc. COMPUTER SCIENCE MAJOR (Co-op)**			  *2017-present
 University of Manitoba*  
