@@ -1,5 +1,5 @@
 
-## ** <center> TECHNICAL SKILLS </center>**
+## <center> <b>TECHNICAL SKILLS</b> </center>
 
 C++/.NET | C# | Javascript | PHP | HTML/CSS | Java  
 NodeJS | JQuery | Ajax | AWS | Bash | Github  
