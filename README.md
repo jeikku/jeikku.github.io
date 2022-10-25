@@ -1,6 +1,6 @@
-<center> </center>
+<center>
 ## **TECHNICAL SKILLS**
-	
+</center>
 C++/.NET | C# | Javascript | PHP | HTML/CSS | Java  
 NodeJS | JQuery | Ajax | AWS | Bash | Github  
 MongoDB | SQLite | VS Code | OpenGL | WordPress | Qt 
