@@ -1,4 +1,6 @@
-
+---
+title: Resume
+---
 ## <center> <b>TECHNICAL SKILLS</b> </center>
 
 C++/.NET | C# | Javascript | PHP | HTML/CSS | Java  
