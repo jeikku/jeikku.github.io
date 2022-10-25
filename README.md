@@ -1,5 +1,5 @@
-## <center> **TECHNICAL SKILLS**
-
+<center> 
+## **TECHNICAL SKILLS**
 C++/.NET | C# | Javascript | PHP | HTML/CSS | Java  
 NodeJS | JQuery | Ajax | AWS | Bash | Github  
 MongoDB | SQLite | VS Code | OpenGL | WordPress | Qt 
@@ -28,7 +28,8 @@ Japanese Language Program
 - Spent time working as a QA to ensure bug fixes and new functionalities did not impede upon performance or cause additional issues
 - Put myself forward for new project opportunities, and actively participated in the research and development process of a new functionality for one of the companies main software solutions
 - Completed relevant geophysics and professional training courses to meet the standards required to develop software in the oil and gas industry
-- Learnt to carefully commit changes and manage branches, ensuring they were properly cleaned up after being fully merged  
+- Learnt to carefully commit changes and manage branches, ensuring they were properly cleaned up after being fully merged 
+
 ### **SOFTWARE DEVELOPER Delphi Tech Corporation		    winter 2021**
 - Partook an active role in a small team setting, actively making decisions and contributing personal thoughts in daily meetings
 - Constructed a dynamic and interactive chatbot - with the backend functionality done using Javascript and API calls to AWS Amazon Lex and the sleek UI being implemented via PHP and CSS
