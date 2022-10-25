@@ -1,4 +1,4 @@
-## <center> TECHNICAL SKILLS
+## <center> **TECHNICAL SKILLS**
 
 C++/.NET | C# | Javascript | PHP | HTML/CSS | Java  
 NodeJS | JQuery | Ajax | AWS | Bash | Github  
