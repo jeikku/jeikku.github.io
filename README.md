@@ -9,8 +9,8 @@ permalink: /README/
 This README will serve to teach you the basics of modern technical writing. It will also explain how to utilize fundamental tools and walk you through the process of formatting your resume on a hosted website. This README will also make heavy reference to Andrew Etter's book *Modern Technical Writing*, as it is a great reference for current Technical Writing practices. Through the explanations given hopefully you will have gained an understanding of current technical writing practices.
 
 ### Hosting a Resume - Requirements
-The software stack which we will use is as follows (explanations to follow):
-  
+The software stack which we will use is as follows (explanations to follow):  
+
 > Lightweight markup language: **Markdown**
 	  
 > Markdown Editor: **Ghostwriter**  
@@ -30,10 +30,10 @@ As explained in Andrew Etter's book *Modern Technical Writing*
 
 #### **More Resources**
 Andrew Etter's Book:  
-https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
+[Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS "Modern Technical Writing")
 
 Markdown Tutorial:  
-https://www.markdowntutorial.com/
+[markdowntutorial.com](https://www.markdowntutorial.com/ "Markdown Tutorial") 
 
 Sample Resume (formatted in markdown):  
-https://jeikku.github.io/
+[jeikku.github.io](https://jeikku.github.io/ "Resume | Jacob Broggy")
