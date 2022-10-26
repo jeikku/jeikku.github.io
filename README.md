@@ -10,13 +10,13 @@ This README will serve to teach you the basics of modern technical writing. It w
 
 ### Hosting a Resume - Requirements
 The software stack which we will use is as follows (explanations to follow):
-
+  
 > Lightweight markup language: **Markdown**
-	
+	  
 > Markdown Editor: **Ghostwriter**  
-
+  
 > Static Site Host: **GitHub Pages**  
-
+  
 > Static Site Generator: **Jekyll**
 
 #### What are these anyway?
