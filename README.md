@@ -43,11 +43,11 @@ As explained in Andrew Etter's book *Modern Technical Writing*; "producing conte
 3. **Get setup with GitHub Pages**  
 * It's now time to create an account on GitHub and make your static site.  
 	* Once you've logged in, click on the icon in the top right and navigate to 'Your Repositories'. From there Click the green 'New' button  
-	* It is important that you name the repository ***(username)*.github.io**  
+	* It is important that you name the repository *(username)*.github.io  
 		* **Note:** replace *(username)* with your own username  
 	* Also enable 'Add a README file', as this is what you will use for resume later  
-* Navigate to your project repository and click on 'Settings' -> 'Pages' (under the *Code and automation* tab)  
-* Under 'Branch' select 'Main'. After a few minutes your website will now be live at *your_username*.github.io !
+	* Navigate to your project repository and click on 'Settings' -> 'Pages' (under the *Code and automation* tab)  
+	* Under 'Branch' select 'Main'. After a few minutes your website will now be live at *your_username*.github.io !
 
 4. **Add your formatted resume file**  
 	* You can easily insert your resume .md file to the site by replacing the README.md file with it. Ensure that the resume file is also renamed to README.md, as this is what GitHub Pages will use for the website's homepage.	  
