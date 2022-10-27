@@ -8,7 +8,7 @@ permalink: /README/
 ### **Purpose**
 This README will serve to teach you the basics of modern technical writing. It will also explain how to utilize fundamental tools and walk you through the process of formatting your resume on a hosted website. This README will also make heavy reference to Andrew Etter's book *Modern Technical Writing*, as it is a great reference for current Technical Writing practices. Through the explanations given hopefully you will have gained an understanding of current technical writing practices.
 
-### Hosting a Resume - Requirements
+### **Hosting a Resume - Requirements**
 The software stack which we will use is as follows (explanations to follow):  
 
 > Lightweight markup language: **Markdown**
@@ -57,9 +57,9 @@ As explained in Andrew Etter's book *Modern Technical Writing*; "producing conte
 	```
 - With a good looking theme and clean static site, you are now acquainted with core modern technical writing practices!
 
-### Frequently Asked Questions Q&A
+### **Frequently Asked Questions Q&A**
 
-##### **Q** - How do I change my website's homepage?
+**Q** - How do I change my website's homepage?  
 * **A** - By default GitHub Pages will recognize README.md as the homepage for your static site. However, you can simply insert the following text at the top of your preferred homepage *.md* file:
 	```
 	---
@@ -68,9 +68,10 @@ As explained in Andrew Etter's book *Modern Technical Writing*; "producing conte
 	 ```
 	- What this is doing is setting the sub-URL of the page to nothing, making it the same URL as the homepage
 	
-##### **Q** - How do I write concisely? 
+**Q** - How do I write concisely?  
 * **A** - This is naturally a question that is somewhat open to individual interpretation. However, basing an answer off of the rules defined in Etter's book, one of the basic strategies is to 'Define the Audience'. Regarding this topic, Etter explains that writers make much better assumptions when they know exactly who they are writing to (Etter, pg. 6-8). For example, a painter who writes an introductory guide to painting would know to write as though the audience knows nothing on the subject beforehand. Whereas' an advanced painters guide would not waste time covering basic techniques.
-#### **More Resources**
+
+### More Resources
 Andrew Etter's Book:  
 [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS "Modern Technical Writing")
 
