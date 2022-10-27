@@ -42,24 +42,24 @@ As explained in Andrew Etter's book *Modern Technical Writing*; "producing conte
 - Now that you have hopefully written out and formatted your resume to be easily readable, it's time to go through it and ensure that it answers some fundamental questions. In the context of a resume, ask yourself if the skills and experience listed are relevant to the companies you want to apply for. In the book Etter also makes it clear that you should write out your skills based on verifiable proof, and avoid writing from memory (Etter, pg. 8-10). This is to ensure you are being concise and accurate with your statements. On a resume, for instance, you wouldn't want to write down something that can't be well explained or backed up during an interview.	
 
 3. **Get setup with GitHub Pages**  
-* It's now time to create an account on GitHub and make your static site.  
+- It's now time to create an account on GitHub and make your static site.  
 
-* Once you've logged in, click on the icon in the top right and navigate to 'Your Repositories'. From there Click the green 'New' button
+- Once you've logged in, click on the icon in the top right and navigate to 'Your Repositories'. From there Click the green 'New' button
 
-	* It is important that you name the repository ***(username)*.github.io**
+	- It is important that you name the repository ***(username)*.github.io**
 	
-		* **Note:** replace *(username)* with your own username  
+		- **Note:** replace *(username)* with your own username  
 		
-	* Also enable 'Add a README file', as this is what you will use for resume later  
+	- Also enable 'Add a README file', as this is what you will use for resume later  
 	
-* Navigate to your project repository and click on 'Settings' -> 'Pages' (under the *Code and automation* tab)  
+- Navigate to your project repository and click on 'Settings' -> 'Pages' (under the *Code and automation* tab)  
 
-* Under 'Branch' select 'Main'. After a few minutes your website will now be live at *your_username*.github.io !
+- Under 'Branch' select 'Main'. After a few minutes your website will now be live at *your_username*.github.io !
 
 4. **Add your formatted resume file**  
-* You can easily insert your resume .md file to the site by replacing the README.md file with it. Ensure that the resume file is also renamed to README.md, as this is what GitHub Pages will use for the website's homepage. 
+- You can easily insert your resume .md file to the site by replacing the README.md file with it. Ensure that the resume file is also renamed to README.md, as this is what GitHub Pages will use for the website's homepage. 
 		
-	* **Note:** The website will take around ~1 minute to update 
+	- **Note:** The website will take around ~1 minute to update 
 	
 - Because GitHub is a version control service, it is seamless to make safe changes to your website as you see fit, which is an incredibly valuable technical writing practice (Etter, pg. 18-19).  
 
@@ -71,7 +71,7 @@ As explained in Andrew Etter's book *Modern Technical Writing*; "producing conte
 	Title: My Resume
 	```
 
-* With a good looking theme and clean static site, you are now acquainted with core modern technical writing practices!
+- With a good looking theme and clean static site, you are now acquainted with core modern technical writing practices!
 
 ### **Frequently Asked Questions Q&A**
 
