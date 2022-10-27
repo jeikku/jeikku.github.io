@@ -37,8 +37,10 @@ As explained in Andrew Etter's book *Modern Technical Writing*; "producing conte
 - After you have completed the tutorial on Markdown syntax (link under *More Resources*), it's time to start writing. Open up Ghostwriter - but before you start writing it is important to consider stylistic choices.  
 
 - Etter explains that writing with consistency is one of the core aspects to readability (Etter, pg. 10). Furthermore, that consistency can be applied to clean formatting throughout your resume. Utilize lists, headers, and inline styling in order to create a resume that can be easily dissected by the eyes.
+
 2. **Revise your Resume**  
 - Now that you have hopefully written out and formatted your resume to be easily readable, it's time to go through it and ensure that it answers some fundamental questions. In the context of a resume, ask yourself if the skills and experience listed are relevant to the companies you want to apply for. In the book Etter also makes it clear that you should write out your skills based on verifiable proof, and avoid writing from memory (Etter, pg. 8-10). This is to ensure you are being concise and accurate with your statements. On a resume, for instance, you wouldn't want to write down something that can't be well explained or backed up during an interview.	
+
 3. **Get setup with GitHub Pages**  
 * It's now time to create an account on GitHub and make your static site.  
 
@@ -53,12 +55,14 @@ As explained in Andrew Etter's book *Modern Technical Writing*; "producing conte
 * Navigate to your project repository and click on 'Settings' -> 'Pages' (under the *Code and automation* tab)  
 
 * Under 'Branch' select 'Main'. After a few minutes your website will now be live at *your_username*.github.io !
+
 4. **Add your formatted resume file**  
 * You can easily insert your resume .md file to the site by replacing the README.md file with it. Ensure that the resume file is also renamed to README.md, as this is what GitHub Pages will use for the website's homepage. 
 		
 	* **Note:** The website will take around ~1 minute to update 
 	
 - Because GitHub is a version control service, it is seamless to make safe changes to your website as you see fit, which is an incredibly valuable technical writing practice (Etter, pg. 18-19).  
+
 5. **Generate the Static Site Theme with Jekyll**
 - On top of good styling, having an eye catching and clean site for your resume will bring it to the next level. Create a file in your repo called '_config.yml', where you will set a site-wide theme and title. GitHub has some [Jekyll themes](https://pages.github.com/themes/) integrated, otherwise you can browse the web for more choices. In _config.yml, insert the following code to set the site's theme and title (replacing with your own):  
 
