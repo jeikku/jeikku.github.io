@@ -62,7 +62,7 @@ As explained in Andrew Etter's book *Modern Technical Writing*; "producing conte
 	Title: My Resume
 	```
 
-* With a good looking theme and clean static site, you are now acquainted with core modern technical writing practices!
+With a good looking theme and clean static site, you are now acquainted with core modern technical writing practices!
 
 ### **Frequently Asked Questions Q&A**
 
