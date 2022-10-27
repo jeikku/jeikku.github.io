@@ -90,5 +90,5 @@ Markdown Tutorial:
 Sample Resume (formatted in markdown):  
 [jeikku.github.io](https://jeikku.github.io/ "Resume | Jacob Broggy")
 
-Jekyll Theme Examples:
+Jekyll Theme Examples:  
 [Jekyll Themes](https://pages.github.com/themes/ "Themes")
