@@ -28,7 +28,7 @@ The software stack which we will use is as follows (explanations to follow):
 
 - To easily create a static website, we will be using the **static site generator** (or **SSG**) Jekyll. An SSG provides resources to generate static websites, such as pre-existing themes which can be seamlessly applied. Jekyll was chosen due to its integration with GitHub Pages, making it easy to work with
 
-Additionally, you will require a resume formatted in markdown. A sample is provided under the '*More Resources*' section. Feel free to use this as a reference.
+Additionally, you will be required to make a **resume formatted in markdown**. A sample is provided under the '*More Resources*' section. Feel free to use this as a reference.
 
 ### **The Process**
 As explained in Andrew Etter's book *Modern Technical Writing*; "producing content that people will read and find useful is [really hard]"(Etter, pg. 4). Therefore each step for creating and hosting your resume will also provide context into the practices behind it, to help better explain the process.
