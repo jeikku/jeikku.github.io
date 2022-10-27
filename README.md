@@ -50,7 +50,7 @@ As explained in Andrew Etter's book *Modern Technical Writing*; "producing conte
 	+ note that the website will take around ~1 minute to update
 - Because GitHub is a version control service, it is seamless to make safe changes to your website as you see fit, which is an incredibly valuable technical writing practice (Etter, pg. 18-19).
 5. **Generate the Static Site Theme with Jekyll**
-- On top of good styling, having an eye catching and clean site for your resume will bring it to the next level. Create a file in your repo called '_config.yml', where you will set a site-wide theme and title. GitHub has some [Jekyll themes](https://pages.github.com/themes/) integrated, otherwise you can browse the web for more choices. In _config.yml, insert the following code to set the site's theme and title:
+- On top of good styling, having an eye catching and clean site for your resume will bring it to the next level. Create a file in your repo called '_config.yml', where you will set a site-wide theme and title. GitHub has some [Jekyll themes](https://pages.github.com/themes/) integrated, otherwise you can browse the web for more choices. In _config.yml, insert the following code to set the site's theme and title (replacing with your own):
 	```
 	Theme: jekyll-theme-midnight
 	Title: My Resume
