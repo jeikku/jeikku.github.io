@@ -35,7 +35,6 @@ As explained in Andrew Etter's book *Modern Technical Writing*; "producing conte
 
 1. **Write your Resume in Markdown**  
 - After you have completed the tutorial on Markdown syntax (link under *More Resources*), it's time to start writing. Open up Ghostwriter - but before you start writing it is important to consider stylistic choices.  
-
 - Etter explains that writing with consistency is one of the core aspects to readability (Etter, pg. 10). Furthermore, that consistency can be applied to clean formatting throughout your resume. Utilize lists, headers, and inline styling in order to create a resume that can be easily dissected by the eyes.
 
 2. **Revise your Resume**  
