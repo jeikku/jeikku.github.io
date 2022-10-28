@@ -64,6 +64,9 @@ As explained in Andrew Etter's book *Modern Technical Writing*; "producing conte
 
 With a good looking theme and clean static site, you are now acquainted with core modern technical writing practices!
 
+Here is an example of what your newly hosted Resume might look like:  
+![sample resume gif]("Resume_JACOBBROGGY.gif)
+
 ### **Frequently Asked Questions Q&A**
 
 **Q** - How do I change my website's homepage?  
