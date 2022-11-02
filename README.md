@@ -3,8 +3,7 @@ title: A2 - README
 description: COMP 3040 Assignment 2 README
 permalink: /README/
 ---
-## How to Host a Resume on a  Static Website 
-#### & The Value of Technical Writing
+## How to Host a Resume on a  Static Website & The Value of Technical Writing
 
 ### **Purpose**
 This README will serve to teach you the basics of modern technical writing. It will also explain how to utilize fundamental tools and walk you through the process of formatting your resume on a hosted website. This README will also make heavy reference to Andrew Etter's book [*Modern Technical Writing*](https://www.markdowntutorial.com/), as it is a great reference for current Technical Writing practices. Through the explanations given you will have gained an understanding of current technical writing practices.  
