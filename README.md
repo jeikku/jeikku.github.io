@@ -53,7 +53,7 @@ As explained in Andrew Etter's book *Modern Technical Writing*, it isn't easy to
 4. **Add your formatted resume file**  
 	* You can easily insert your resume .md file to the site by replacing the README.md file with it. Ensure that the resume file is also renamed to README.md, as this is what GitHub Pages will use for the website's homepage.	  
 		* **Note:** The website will take around ~1 minute to update  
-	- Because GitHub is a [version control](atlassian.com/git/tutorials/what-is-version-control) service, it is seamless to make safe changes to your website as you see fit, which is an incredibly valuable technical writing practice (Etter, pg. 18-19).
+	- Because GitHub is a [version control](https://www.atlassian.com/git/tutorials/what-is-version-control) service, it is seamless to make safe changes to your website as you see fit, which is an incredibly valuable technical writing practice (Etter, pg. 18-19).
 
 5. **Generate the Static Site Theme with Jekyll**  
 - On top of good styling, having an eye catching and clean site for your resume will bring it to the next level. Create a file in your repo called '_config.yml', where you will set a site-wide theme and title. GitHub has some [Jekyll themes](https://pages.github.com/themes/) integrated, otherwise you can browse the web for more choices. In _config.yml, insert the following code to set the site's theme and title (replacing with your own):  
@@ -99,4 +99,4 @@ Jekyll Theme Examples:
 [Jekyll Themes](https://pages.github.com/themes/ "Themes")
 
 What is Version Control:  
-[Version Control Introduction](atlassian.com/git/tutorials/what-is-version-control)
+[Version Control Introduction](https://www.atlassian.com/git/tutorials/what-is-version-control)
