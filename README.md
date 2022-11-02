@@ -65,7 +65,7 @@ As explained in Andrew Etter's book *Modern Technical Writing*; "producing conte
 With a good looking theme and clean static site, you are now acquainted with core modern technical writing practices!
 
 Here is an example of what your newly hosted Resume might look like:  
-![samplegif](https://github.com/jeikku/jeikku.github.io/blob/main/Resume%20_%20JACOBBROGGY.gif)
+![samplegif](https://github.com/jeikku/jeikku.github.io/blob/main/resume.gif)
 
 ### **Frequently Asked Questions Q&A**
 
