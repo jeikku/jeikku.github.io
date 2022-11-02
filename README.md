@@ -1,3 +1,8 @@
+---
+title: A2 - README
+description: COMP 3040 Assignment 2 README
+permalink: /README/
+---
 ## How to Host a Resume on a  Static Website 
 #### & The Value of Technical Writing
 
