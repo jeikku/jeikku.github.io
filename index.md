@@ -10,9 +10,8 @@ MongoDB | SQLite | VS Code | OpenGL | WordPress | Qt
 ## **EDUCATION & AWARDS**   
 **B.Sc. COMPUTER SCIENCE MAJOR (Co-op)**			  *2017-present
 University of Manitoba*  
-Current coursework: 
-- Computer Networks
-- Technical Communication in Computer Science
+- 2021-22 Commerce Business Banquet Director of IT
+- 2022-23 University of Manitoba Anime Club President
 		     
 **INTERNATIONAL EXCHANGE Tokyo, Japan**
 *2019-2020 Kokugakuin University*  
