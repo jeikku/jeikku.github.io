@@ -12,7 +12,6 @@ MongoDB | SQLite | VS Code | OpenGL | WordPress | Qt
 University of Manitoba*  
 - 2021-22 Commerce Business Banquet Director of IT
 - 2022-23 University of Manitoba Anime Club President
-- Current graduand, receiving degree Feb. 2024
 		     
 **INTERNATIONAL EXCHANGE Tokyo, Japan**
 *2019-2020 Kokugakuin University*  
