@@ -8,7 +8,7 @@ NodeJS | JQuery | Ajax | AWS | Bash | Github
 MongoDB | SQLite | VS Code | OpenGL | WordPress | Qt 
 
 ## **EDUCATION & AWARDS**   
-**B.Sc. COMPUTER SCIENCE MAJOR (Co-op)**			  *2017-2023
+**B.Sc. COMPUTER SCIENCE MAJOR (Co-op)**			  *2017-2024
 University of Manitoba*  
 - 2021-22 Commerce Business Banquet Director of IT
 - 2022-23 University of Manitoba Anime Club President
